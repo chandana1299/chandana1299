@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandana1299
-- 👀 I’m interested in Data Science Field
-- 🌱 I’m currently learning on Different Data Science And Data Analytics tools along with ml algorithms
+- 👀 I’m interested in DevOps and Cloud Computing field
+- 🌱 I’m currently learning on Different DevOps and Cloud tools along basics on Data Analysis and Machine 
 - 
 
 <!---
